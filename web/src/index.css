@@ -1,0 +1,638 @@
+.justify-space-between {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1100px;
+  gap: 55px;
+  margin: 0 auto;
+}
+
+.navbar{
+  border-color: white;
+}
+
+
+
+.Box_hero{
+      background-color: #6c7cbc;
+      height: 850px;
+}
+
+
+.navbar-nav {
+gap: 30px;
+}
+
+.dropdown:hover .dropdown-menu {
+display: block;
+}
+
+.dropdown-menu {
+margin-top: 0;
+}
+
+ul .dropdown-menu{
+margin-top: 11px;
+border-top: 5px solid #0052ff;
+}
+
+a.nav-link.active:hover{
+color: #0052ff;
+}
+
+.content_About{
+padding-top: 4%;
+}
+
+
+.Gems_para{
+font-size: 16px;
+color:  #6c7cbc;
+}
+
+Button{
+font-size: 25px;
+background: none;
+border: none;
+}
+
+
+.Gam_nfts{
+font-size: 30px;
+font-weight: 600;
+}
+
+.dropdown-item {
+color: black;
+}
+
+.dropdown-item:hover {
+background-color: #f8f9fa;
+}
+
+
+.buttons_Navbar{
+  padding: 13px 15px 13px 15px;
+  font-size: 14px;
+  line-height: 21px;
+  text-transform: uppercase;
+  background-color: #fff;
+  margin: 0 0 0 15px;
+  border: 1px solid #06182c;
+  cursor: pointer;
+  padding: 15px 20px;
+
+}
+
+.buttons_Navbar:hover{
+background-color: black;
+color: #fff;
+
+}
+
+.buttons_Navbar2{
+  padding: 13px 15px 13px 15px;
+  font-size: 14px;
+  line-height: 21px;
+  text-transform: uppercase;
+  margin: 0 0 0 15px;
+  background-color: #0052ff;
+  color: white;
+  border: 1px solid #0052ff;
+  cursor: pointer;
+
+
+}
+
+
+.heading_hero h1{
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 72px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  margin-top: 15%;
+  color: white;
+}
+
+
+.heading{
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 26.4px;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  margin-top: 53;
+  color: white;
+
+}
+
+
+.Mint_now{
+  background-color: #0052ff;
+  color: white;
+  font-size: 14px;
+  line-height: 21px;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  padding: 13px 30px 13px 30px;
+  border: 1px solid #0052ff;
+  cursor: pointer;
+  width: 160px;
+}
+
+
+
+.Join_the{
+  background-color: #6c7cbc;
+  color: white;
+  font-size: 14px;
+  line-height: 21px;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  padding: 13px 30px 13px 30px;
+  border: 1px solid #fff;
+  cursor: pointer;
+  margin-left: 2%;
+}
+
+
+.Join_the:hover{
+  background-color: white;
+  color: #0052ff;
+}
+
+
+.content_hero p{
+  font-size: 20px;
+  font-weight: 600px;
+  line-height: 30px;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  margin-top: 3%;
+  color: white;
+}
+
+.About_Section{
+background-color: #F8F8F8;
+}
+
+.heading_About_us{
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 19.2;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  color: #06182c;
+  margin-top: 20%;
+}
+
+
+.heading_About{
+
+  font-size: 36px;
+  font-weight: 600;
+  /* line-height: 43.2; */
+  text-transform: uppercase;
+  font-family: sans-serif;
+
+}
+
+
+
+.buttons_about{
+  font-size: 14px;
+  line-height: 21px;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  padding: 13px 30px 13px 30px;
+  background-color:#06182c;
+  color: white;
+  margin-left: 2%;
+}
+
+
+.buttons_about:hover{
+  background-color: #0052ff;
+}
+
+
+.buttons_Ab{
+  padding-bottom: 20%;
+}
+
+
+
+.About_img{
+  margin-top: 10%;
+}
+
+
+
+.box.h4{
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  color: #06182c;
+
+}
+
+.box{
+  height: 44px;
+  width: 58px;
+  padding: 4px 10px 4px 10px;
+}
+
+
+
+.gaming_Add{
+  background-color: #F8F8F8;
+}
+
+
+
+/* //slider */
+
+.Slider{
+  background-color: #F8F8F8;
+}
+
+.wrapper{
+background-color: #F8F8F8;
+padding-top: 5%;
+}
+
+h2{
+  text-align:center;
+  /* padding: 20px; */
+}
+/* Slider */
+
+
+
+
+
+
+/* counter */
+
+.minting_techniques{
+background-color: #F8F8F8;
+padding-top: 3%;
+}
+
+
+
+
+
+.num{
+font-size: 60px;
+font-weight: 700;
+}
+
+
+.text_counter{
+font-size: 30px;
+}
+
+
+
+.team_list{
+
+background-color: #F8F8F8;
+padding-top: 1%;
+}
+
+.step {
+background-color: #f8f9fa;
+padding: 20px;
+margin: 10px;
+border-radius: 10px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+position: relative;
+}
+
+.step::before {
+content: '';
+position: absolute;
+top: 50%;
+right: -20px;
+border-left: 10px solid #f8f9fa;
+border-top: 10px solid transparent;
+border-bottom: 10px solid transparent;
+transform: translateY(-50%);
+}
+
+.step:last-child::before {
+display: none;
+}
+
+.emoji {
+font-size: 1.5rem;
+}
+
+
+
+
+
+.Member{
+font-size: 22px;
+font-weight: 600;
+}
+
+
+
+.social_icon{
+font-size: 25px;
+}
+
+
+
+.Image1{
+background-color: #fff;
+padding: 7%;
+}
+
+
+
+.Phase1{
+font-size: 18px;
+background-color: white;
+padding: 10px;
+}
+
+
+
+.cs-accordian_head {
+cursor: pointer;
+}
+
+
+.heading_community{
+font-size: 60px;
+font-weight: 600;
+padding-top: 5%;
+color: #fff;
+}
+
+
+.content_community{
+font-size: 16px;
+line-height: 24px;
+color: #fff;
+}
+
+
+.box_Community{
+width: 100%;
+height: 100%;
+background-color: #0052ff;
+padding-bottom: 5%;
+}
+
+
+.buttons_Community{
+background-color: #0052ff;
+/* height: 50px; */
+/* width: 250px; */
+border: 1px solid #fff;
+text-transform: uppercase;
+}
+
+
+
+
+.buttons_Commmunity2{
+background-color: #fff;
+/* height: 50px; */
+/* width: 250px; */
+margin-left: 2%;
+border: 1px solid #fff;
+text-transform: uppercase;
+
+}
+
+
+.buttons_Commmunity2:hover{
+background-color: #0052ff;
+}
+
+.fa-link:hover {
+  color: white;
+}
+
+
+
+.social_icon{
+display: flex;
+justify-content: center;
+padding-top: 3%;
+gap: 10px;
+}
+
+
+.fb{
+width: 48px;
+height: 48px;
+background-color: #fff;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.fb:hover{
+background-color: #0052ff;
+color: #fff;
+}
+
+.Wapp{
+width: 48px;
+height: 48px;
+background-color: #fff;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.Wapp:hover{
+background-color: #0052ff;
+color: #fff;
+}
+
+.camera{
+width: 48px;
+height: 48px;
+background-color: #fff;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.camera:hover{
+background-color: #0052ff;
+color: #fff;
+}
+
+.twitter{
+width: 48px;
+height: 48px;
+background-color: #fff;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+.twitter:hover{
+background-color: #0052ff;
+color: #fff;
+}
+
+.utube{
+width: 48px;
+height: 48px;
+background-color: #fff;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+.utube:hover{
+background-color: #0052ff;
+color: #fff;
+}
+
+
+.parent-container {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 10vh; /* Optional: to center it vertically in the viewport */
+}
+
+.footer_menu ul {
+list-style-type: none;
+padding: 0;
+margin: 0;
+display: flex;
+gap: 20px; /* Space between menu items */
+}
+
+.footer_menu li {
+cursor: pointer;
+}
+
+
+ul li:hover{
+color: #0052ff;
+}
+
+
+@media screen and (max-width: 600px) {
+.Respo_items{
+  text-align: center;
+}
+
+}
+
+
+
+@media screen and (max-width: 600px) {
+
+.heading_community{
+font-size: 22px;
+
+}
+
+}
+
+@media screen and (max-width: 600px) {
+
+.parent-container{
+  font-size: 10px;
+}
+
+
+}
+
+@media screen and (max-width: 600px) {
+
+.hero_img{
+width: 55%;
+margin-left: 20%;
+
+}
+}
+
+
+
+.Blog_button{
+width: 125px;
+height: 50px;
+background-color: #fff;
+color: black;
+border: 1px solid #EAEAEA;
+}
+
+
+.buttons{
+display: flex;
+justify-content: center;
+gap: 15px;
+margin-top: 3%;
+display: flex;
+justify-content: flex-start;
+}
+
+
+
+.copy_right{
+text-align: center;
+}
+
+
+
+.img_footer{
+padding-top: 5%;
+text-align: center;
+}
+
+
+.box_Community{
+text-align: center;
+}
+
+
+
+.blogs_img:hover {
+transform: scale(1.1); /* Example of scaling up the element */
+transition: all 0.4s;
+}
+.slide img{
+  background-color: #6c7cbc;
+  display: flex;
+  width: 50%;
+  justify-content: center !important;
+  cursor: pointer;
+}
+
+.blogs{
+padding-top: 10%;
+}
+
+
+.UI_design{
+font-size: 16px;
+text-align: center;
+}
+
+
+.Phase_Heading{
+font-size: 22px;
+font-weight: 600;
+}
+
