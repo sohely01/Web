@@ -1,56 +1,56 @@
-import React from 'react';
-import First from '../assets/img/card1.jpg';
-import Second from '../assets/img/card2.jpg';
-import Third from '../assets/img/card3.jpg';
-
+import React from "react";
+import First from "../assets/img/react.png";
+import Second from "../assets/img/node.png";
+import Third from "../assets/img/figma.jpg";
 
 const Card = () => {
   return (
     <div className="container mt-4">
       <div className="row g-4">
-        {/* Card 1 */}
         <div className="col-md-4">
           <div className="card h-100">
             <img src={First} className="card-img-top" alt="Card example" />
             <div className="card-body">
-              <h5 className="card-title">Card Title 1</h5>
+              <h5 className="card-title">React js</h5>
               <p className="card-text">
-                Some quick example text to build on the card title and make up the bulk of the card's content.
+                React.js allows developers to build dynamic user interfaces
+                using components, state management, and hooks efficiently.{" "}
               </p>
               <a href="#" className="btn btn-primary">
-              Card item 1
+                Go to React js
               </a>
             </div>
           </div>
         </div>
 
-        {/* Card 2 */}
         <div className="col-md-4">
           <div className="card h-100">
             <img src={Second} className="card-img-top" alt="Card example" />
             <div className="card-body">
-              <h5 className="card-title">Card Title 2</h5>
+              <h5 className="card-title">Node js</h5>
               <p className="card-text">
-                Some quick example text to build on the card title and make up the bulk of the card's content.
+                Node.js enables building scalable, fast, and efficient
+                server-side applications using JavaScript for real-time
+                solutions{" "}
               </p>
               <a href="#" className="btn btn-primary">
-                Card item 2
+                Go to Node js
               </a>
             </div>
           </div>
         </div>
 
-        {/* Card 3 */}
         <div className="col-md-4">
           <div className="card h-100">
             <img src={Third} className="card-img-top" alt="Card example" />
             <div className="card-body">
-              <h5 className="card-title">Card Title 3</h5>
+              <h5 className="card-title">Figma</h5>
               <p className="card-text">
-                Some quick example text to build on the card title and make up the bulk of the card's content.
+                Figma allows seamless collaboration, real-time editing, and easy
+                design sharing across teams and devices{" "}
               </p>
               <a href="#" className="btn btn-primary">
-              Card item 3
+                Go to Figma
               </a>
             </div>
           </div>
